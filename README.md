@@ -5,11 +5,11 @@ The project also features a simple graphical user interface (GUI) for sending an
 
 # Features
 
-🖥️ Graphical User Interface using Java Swing
-🔗 Client-Server Communication using Socket and ServerSocket
-⏰ Timestamps with each message using SimpleDateFormat
-📦 Message Formatting with custom colors and borders
-🚀 Lightweight and beginner-friendly
+ Graphical User Interface using Java Swing
+ Client-Server Communication using Socket and ServerSocket
+ Timestamps with each message using SimpleDateFormat
+ Message Formatting with custom colors and borders
+ Lightweight and beginner-friendly
 
 # Project Structure
 ChatApplication/
